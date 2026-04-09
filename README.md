@@ -40,4 +40,4 @@ Les principaux réglages sont dans `config.py` :
 
 ## Vidéo
 
-<video controls src="export-1775743281298.mp4" title="Title"></video>
+<video controls src="vid.mp4" title="Title"></video>
